@@ -1,0 +1,50 @@
+c:\users\2020_b_14\documents\visual studio 2015\Projects\Ship_Game\Ship_Game\bin\Debug\Ship_Game.exe.config
+c:\users\2020_b_14\documents\visual studio 2015\Projects\Ship_Game\Ship_Game\bin\Debug\Ship_Game.exe
+c:\users\2020_b_14\documents\visual studio 2015\Projects\Ship_Game\Ship_Game\bin\Debug\Ship_Game.pdb
+c:\users\2020_b_14\documents\visual studio 2015\Projects\Ship_Game\Ship_Game\obj\Debug\Ship_Game.csprojResolveAssemblyReference.cache
+c:\users\2020_b_14\documents\visual studio 2015\Projects\Ship_Game\Ship_Game\obj\Debug\Ship_Game.exe
+c:\users\2020_b_14\documents\visual studio 2015\Projects\Ship_Game\Ship_Game\obj\Debug\Ship_Game.pdb
+C:\Users\admin\Desktop\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.exe.config
+C:\Users\admin\Desktop\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.exe
+C:\Users\admin\Desktop\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.pdb
+C:\Users\admin\Desktop\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.exe
+C:\Users\admin\Desktop\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.pdb
+C:\Users\admin\Desktop\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.csprojResolveAssemblyReference.cache
+\\10.33.103.226\2020_b_14\RogueLike v0.2.0\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.exe.config
+\\10.33.103.226\2020_b_14\RogueLike v0.2.0\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.exe
+\\10.33.103.226\2020_b_14\RogueLike v0.2.0\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.pdb
+\\10.33.103.226\2020_b_14\RogueLike v0.2.0\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.exe
+\\10.33.103.226\2020_b_14\RogueLike v0.2.0\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.pdb
+\\10.33.103.226\2020_b_14\RogueLike v0.2.0\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.csprojResolveAssemblyReference.cache
+C:\Users\admin\Google Drive (danylo.martakov@gmail.com)\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.exe.config
+C:\Users\admin\Google Drive (danylo.martakov@gmail.com)\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.exe
+C:\Users\admin\Google Drive (danylo.martakov@gmail.com)\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.pdb
+C:\Users\admin\Google Drive (danylo.martakov@gmail.com)\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.csprojAssemblyReference.cache
+C:\Users\admin\Google Drive (danylo.martakov@gmail.com)\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.csproj.CoreCompileInputs.cache
+C:\Users\admin\Google Drive (danylo.martakov@gmail.com)\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.exe
+C:\Users\admin\Google Drive (danylo.martakov@gmail.com)\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.pdb
+C:\Users\admin\Google Drive (danylo.martakov@gmail.com)\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.exe.manifest
+C:\Users\admin\Google Drive (danylo.martakov@gmail.com)\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.application
+C:\Users\admin\Google Drive (danylo.martakov@gmail.com)\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.exe.manifest
+C:\Users\admin\Google Drive (danylo.martakov@gmail.com)\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.application
+C:\Users\2020_b_14\Desktop\МАН\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.exe.config
+C:\Users\2020_b_14\Desktop\МАН\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.exe
+C:\Users\2020_b_14\Desktop\МАН\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.pdb
+C:\Users\2020_b_14\Desktop\МАН\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.exe.manifest
+C:\Users\2020_b_14\Desktop\МАН\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.application
+C:\Users\2020_b_14\Desktop\МАН\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.exe
+C:\Users\2020_b_14\Desktop\МАН\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.pdb
+C:\Users\2020_b_14\Desktop\МАН\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.csprojResolveAssemblyReference.cache
+C:\Users\2020_b_14\Desktop\МАН\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.exe.manifest
+C:\Users\2020_b_14\Desktop\МАН\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.application
+C:\Users\admin\Downloads\МАН 2.0\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.exe.config
+C:\Users\admin\Downloads\МАН 2.0\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.exe.manifest
+C:\Users\admin\Downloads\МАН 2.0\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.application
+C:\Users\admin\Downloads\МАН 2.0\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.exe
+C:\Users\admin\Downloads\МАН 2.0\RogueLike\Ship_Game\Ship_Game\bin\Debug\Ship_Game.pdb
+C:\Users\admin\Downloads\МАН 2.0\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\МАН 2.0\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\МАН 2.0\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.exe.manifest
+C:\Users\admin\Downloads\МАН 2.0\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.application
+C:\Users\admin\Downloads\МАН 2.0\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.exe
+C:\Users\admin\Downloads\МАН 2.0\RogueLike\Ship_Game\Ship_Game\obj\Debug\Ship_Game.pdb
